@@ -1,0 +1,20 @@
+{
+  "name": "Narcos-bos-altyapi",
+  "version": "3.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "MustafaMert",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.1.0",
+    "jimp": "^0.16.1",
+    "nrc.db": "^2.1.0"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  }
+}
